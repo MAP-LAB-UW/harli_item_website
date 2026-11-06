@@ -1,22 +1,25 @@
-# SEED AI Website
+# HARLI Item Website
 
-This repository contains the static project website for the SEED AI diagnostic assessment project.
+This repository contains the website for the HARLI project items.
 
 The website presents three main components:
 
-1. **Final Facets**
+1. **Clusters**
+   Assessment clusters.
+
+2. **Final Facets**
    Learning goal facets and misconception facets used in the diagnostic assessment.
 
-2. **Selected Assessment Items**
-   10 selected multiple-choice diagnostic assessment items.
+3. **Assessment Items**
+   Multiple-choice and short answer diagnostic assessment items.
 
-3. **Q-Matrices**
+4. **Q-Matrices**
    Option-level Q-matrices showing the relationship between each answer option and the corresponding learning goal or misconception facets.
 
 ## Project Structure
 
 ```text
-seed_ai_website/
+harli_item_website/
 ├── index.html
 ├── style.css
 ├── script.js
@@ -32,8 +35,8 @@ seed_ai_website/
 
 Open the website here:
 
-https://map-lab-uw.github.io/seed_ai_website/
+https://map-lab-uw.github.io/harli_item_website/
 
 ## Running the Website Locally
 
-You can download the `seed_ai_website/` folder and open `index.html` directly in a web browser.
+You can download the `harli_item_website/` folder and open `index.html` directly in a web browser.
